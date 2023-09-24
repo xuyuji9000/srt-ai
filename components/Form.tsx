@@ -10,6 +10,7 @@ function classNames(...classes: any[]) {
 
 const LANGUAGES = [
   "Arabic",
+  "Chinese",
   "English",
   "French",
   "German",
